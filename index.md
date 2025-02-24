@@ -1,7 +1,5 @@
 ---
-title: Welcome to my blog
+title: Sam's Blog
 ---
 
-Hello!
-
-Welcome.
+Welcome to Sam's Blog.
